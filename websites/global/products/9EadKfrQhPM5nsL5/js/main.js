@@ -522,7 +522,7 @@ $(function () {
             TweenMax.to('#kv-animate img', 1.0, { css: { opacity: 0, ease: 'Quad.easeOut' } })
         )
         .append(
-            TweenMax.to('#kv-animate2 #kv-pad-photo', 1.0, { css: { top: 417, ease: 'Quad.easeOut' } })
+            TweenMax.to('#kv-animate2 #kv-pad-photo', 1.0, { css: { top: 485, ease: 'Quad.easeOut' } })
         )
         .append(
             TweenMax.from('#kv-animate2 .inner-content', 1.0, { css: { opacity: 0, top: 50, ease: 'Quad.easeOut' } })
@@ -585,7 +585,7 @@ $(function () {
             TweenMax.to('#kv-animate img', 1.0, { css: { opacity: 0, ease: 'Quad.easeOut' } })
         )
         .append(
-            TweenMax.to('#kv-animate2 #kv-pad-photo', 1.0, { css: { top: 417, ease: 'Quad.easeOut' } })
+            TweenMax.to('#kv-animate2 #kv-pad-photo', 1.0, { css: { top: 485, ease: 'Quad.easeOut' } })
         )
         .append(
             TweenMax.from('#kv-animate2 .inner-content', 1.0, { css: { opacity: 0, top: 50, ease: 'Quad.easeOut' } })

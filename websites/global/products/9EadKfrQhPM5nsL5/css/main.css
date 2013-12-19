@@ -745,13 +745,14 @@
   z-index: 220;
 }
 #special-sectionOverview #custom-wrap #kv-wrap #kv-animate2 .inner-content {
-  padding-top: 108px;
+  padding-top: 158px;
   padding-left: 203px;
 }
 #special-sectionOverview #custom-wrap #kv-wrap #kv-animate2 .inner-content h2 {
   color: #618383;
   height: 200px;
   font-size: 100px;
+  margin-bottom:0px;
 }
 #special-sectionOverview #custom-wrap #kv-wrap #kv-animate2 .inner-content p {
   display: inline;
@@ -764,7 +765,7 @@
   margin-top: -80px;
 }
 #special-sectionOverview #custom-wrap #kv-wrap #kv-animate2 .inner-content .dynamic {
-  top: 300px;
+  top: 320px;
   left: 203px;
 }
 #special-sectionOverview #custom-wrap #kv-wrap #kv-animate2 #kv-pad-photo {
@@ -1175,7 +1176,7 @@
   color: #618383;
 }
 #special-sectionOverview #custom-wrap #follow-wrap #padfone .content .kv .inner-content {
-  padding-top: 108px;
+  padding-top: 158px;
   padding-left: 203px;
 }
 #special-sectionOverview #custom-wrap #follow-wrap #padfone .content .kv .inner-content h2 {
@@ -1194,13 +1195,13 @@
   margin-top: -80px;
 }
 #special-sectionOverview #custom-wrap #follow-wrap #padfone .content .kv .inner-content .dynamic {
-  top: 300px;
+  top: 320px;
   left: 203px;
 }
 #special-sectionOverview #custom-wrap #follow-wrap #padfone .content .kv #pad-photo {
   width: 440px;
   height: 737px;
-  top: 417px;
+  top: 485px;
   left: 50%;
   margin-left: -220px;
   position: absolute;
