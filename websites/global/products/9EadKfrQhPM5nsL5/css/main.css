@@ -467,11 +467,12 @@
   width: 320px;
   width: 500px;
   color: #fbfbfb;
+  margin-top:-20px;
 }
 #special-sectionOverview #custom-wrap #kv-wrap #kv-begin .inner ul {
   display: inline;
   position: absolute;
-  top: 500px;
+  top: 450px;
   left: 185px;
 }
 #special-sectionOverview #custom-wrap #kv-wrap #kv-begin .inner ul li {
@@ -960,11 +961,12 @@
   width: 320px;
   width: 500px;
   color: #fbfbfb;
+  margin-top:-20px;
 }
 #special-sectionOverview #custom-wrap #kv-wrap #kv-ie8 .inner ul {
   display: inline;
   position: absolute;
-  top: 500px;
+  top: 450px;
   left: 205px;
 }
 #special-sectionOverview #custom-wrap #kv-wrap #kv-ie8 .inner ul li {
